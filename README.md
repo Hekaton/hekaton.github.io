@@ -1,2 +1,2 @@
 # hekaton.github.io
-hekaton website 
+The hekaton main site
